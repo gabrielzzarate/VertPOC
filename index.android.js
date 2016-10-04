@@ -1,6 +1,6 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * Vert Proof of Concept
+ * https://github.com/avantbaker/VertPOC
  * @flow
  */
 
